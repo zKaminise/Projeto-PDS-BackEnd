@@ -1,5 +1,10 @@
 # Sistema de Gestão de Clientes
 
+## Alunos
+
+**Gabriel Misao Pinheiro Kaminise**
+**Caroline Cortes de Souza Nunes**
+
 ## Descrição
 
 Este projeto é um Sistema de Gestão de Clientes, desenvolvido com o objetivo de permitir cadastro de clientes, atualização e exclusão, permite também usuario ter um segurança no Login e registro de usuarios através do Spring Security e também temos a parte do Financeiro
@@ -7,9 +12,7 @@ onde o usuario pode Cadastrar um pagamento de cada cliente, sendo filtrado por C
 
 ## Oque falta ser feito:
 
-- Front End para a aplicação
 - Realizar Deploy para Produção
-
 
 ## Tecnologias Usadas:
 
@@ -118,12 +121,6 @@ A documentação da API está disponivel através do Swagger no URL:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
-
-## Autor
-
-**Gabriel Misao Pinheiro Kaminise**
-
-https://linkedin.com/in/gabrielkaminise
 
 ## Licença
 
