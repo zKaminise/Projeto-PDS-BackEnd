@@ -2,8 +2,9 @@
 
 ## Alunos
 
-**Gabriel Misao Pinheiro Kaminise**
-**Caroline Cortes de Souza Nunes**
+ - **Gabriel Misao Pinheiro Kaminise**
+ - **Caroline Cortes de Souza Nunes**
+
 
 ## Descrição
 
